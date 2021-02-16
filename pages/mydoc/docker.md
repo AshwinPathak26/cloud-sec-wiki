@@ -23,3 +23,5 @@ folder: mydoc
 * [dive](https://github.com/wagoodman/dive) - A tool for exploring a docker image, layer contents, and discovering ways to shrink the size of your Docker/OCI image.
 * [dockerrootplease](https://github.com/chrisfosterelli/dockerrootplease) - Gives you root on the hostOS, if you're a member of the 'docker' group.
 * [BOtB](https://github.com/brompwnie/botb) - A container analysis and exploitation tool for pentesters and engineers.
+* [harpoon](https://github.com/ProfessionallyEvil/harpoon) - A collection of tips and tricks for container and container orchestration hacking.
+* [Pequod](https://github.com/ProfessionallyEvil/Pequod) - Container hacking lab environment.
