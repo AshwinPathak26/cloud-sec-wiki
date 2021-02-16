@@ -27,4 +27,5 @@ folder: mydoc
 * [kube-goat](https://github.com/ksoclabs/kube-goat): A deliberately vulnerable Kubernetes cluster
 * [TerraGoat](https://github.com/bridgecrewio/terragoat): Bridgecrew's "Vulnerable by Design" Terraform stack
 * [Cfngoat](https://github.com/bridgecrewio/cfngoat): Bridgecrew's "Vulnerable by design" Cloudformation template
-* [Kubernetes Local Security Testing Lab](https://github.com/raesene/kube_security_lab): Lab environment for testing Kubernetes exploits and security tools entirely locally on a single machine
+* [Kubernetes Local Security Testing Lab](https://github.com/raesene/kube_security_lab): Lab environment for testing Kubernetes exploits and security tools entirely locally on a single machine.
+* [Pequod](https://github.com/ProfessionallyEvil/Pequod) - Container hacking lab environment.
